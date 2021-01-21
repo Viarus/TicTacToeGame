@@ -1,0 +1,13 @@
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.exe
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.deps.json
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.runtimeconfig.json
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.runtimeconfig.dev.json
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.dll
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\bin\Debug\netcoreapp3.1\TicTacToe v2.pdb
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.csprojAssemblyReference.cache
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.AssemblyInfoInputs.cache
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.AssemblyInfo.cs
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.dll
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.pdb
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.csproj.CoreCompileInputs.cache
+C:\Programowanie C sharp\Complete Csharp Masterclass\TicTacToe v2\obj\Debug\netcoreapp3.1\TicTacToe v2.genruntimeconfig.cache
